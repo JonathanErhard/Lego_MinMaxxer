@@ -1,0 +1,86 @@
+{ 
+	"list-of-sets": [	
+						{
+						"name": "Republikanischer Angriffskreuzer der Venator-Klasse",
+						"set-nr": 75367,
+						"points": 4875,
+						"price": 649.99
+						},
+
+						{
+						"name": "Darth Mauls Sith Infiltrator",
+						"set-nr": 75383,
+						"points": 525,
+						"price": 69.99
+						},
+
+						{
+						"name": "Burg Himeji",
+						"set-nr": 21060,
+						"points": 1200,
+						"price": 159.99
+						},
+
+						{
+						"name": "Garten der Stille",
+						"set-nr": 10315,
+						"points": 787,
+						"price": 104.99
+						},
+
+						{
+						"name": "Gunshop der Coruscant-Wachen",
+						"set-nr": 75354,
+						"points": 1125,
+						"price":149.99
+						},
+
+						{
+						"name": "Clone Trooper & Battle Droid Battle Pack",
+						"set-nr": 75372,
+						"points": 225,
+						"price": 29.99
+						},
+
+						{
+						"name": "501st Clone Troopers Battle Pack",
+						"set-nr": 75345,
+						"points": 150,
+						"price": 19.99
+						},
+
+						{
+						"name": "Invisible Hand",
+						"set-nr": 75377,
+						"points": 397,
+						"price": 52.99
+						},
+
+						{
+						"name": "Das Entern der Tantive IV",
+						"set-nr": 75387,
+						"points": 412,
+						"price": 54.99
+						},
+
+						{
+						"name": "R2-D2",
+						"set-nr": 75379,
+						"points": 750,
+						"price": 99.99
+						}
+					],
+	
+	"must-include": [75367, 75387, 75379, 75377],
+	"reductions": 	[
+						{
+						"reduction": 5,
+						"points": 750
+						}	
+					],
+	"4x-points": [75354],
+	"2x-points": [75345, 75372, 75377, 75383, 75387],
+	"current-points":  3525,
+	"budget": 1200
+}
+
